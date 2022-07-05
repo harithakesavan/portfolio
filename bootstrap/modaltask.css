@@ -1,0 +1,21 @@
+#img1{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+#hh{
+    margin-left: 150px;
+}
+#img2{
+    height:225px;
+    width:40%
+}
+#div1{
+    float: left;
+    display: inline;
+}
+#img3{
+    display: inline;
+    margin-top: -300px;
+    margin-left: 500px;
+
+}

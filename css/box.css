@@ -1,0 +1,17 @@
+
+div{
+    background-color: aqua;
+    
+    
+    height:200px;
+    width: 500px;;
+}
+#id{
+    background-color: aqua;
+    
+    margin-right: 50px;
+    height:-200px;
+    width: 200px;
+
+
+}

@@ -1,0 +1,36 @@
+.con{
+    width:500px;
+    height:320px;
+    background-color: white;
+    border: 1px solid black;
+    padding-top: 15px;
+    border-radius: 10px;
+
+
+
+}
+#btn1{
+    background-color: rgb(35, 214, 35);
+    width:420px;
+    color: white;
+
+}
+#name{
+    margin-left: -200px;
+}
+#pass{
+    margin-left: -320px;
+}
+#forgot{
+    margin-top: -50px;
+    margin-left: 300px;
+    color: blue;
+}
+#last{
+    width:500px;
+    height: 80px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+
+}

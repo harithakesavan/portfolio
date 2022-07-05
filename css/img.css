@@ -1,0 +1,11 @@
+div{
+    width:200px;
+    height:500px;
+    border: 2px rgb(24, 14, 2) solid;
+    padding:20%;
+
+}
+img{
+    width:100%
+    border-radius: 30px;
+}

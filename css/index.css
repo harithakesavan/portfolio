@@ -1,0 +1,53 @@
+.header{
+    background-color: #3b5998;
+    color: white;
+    height: 85px;
+    padding: 10px;
+    
+
+}
+#h1{
+    margin-left: 75px;
+    font-size: 45px;
+}
+.lo{
+    margin-left: 700px;
+    margin-top: -25px;
+}
+.log{
+    margin-left: 900px;
+    margin-top: -39px;
+}
+.logb{
+    margin-left: 1100px;
+    margin-top: -37px;
+
+}
+.btn{
+    background-color: blue;
+}
+.btn2{
+    background-color: green;
+}
+.login{
+    text-align: right;
+    margin-right: 50px;
+    background-color: white;
+   
+
+}
+.last{
+    margin-right: 245px;
+}
+
+.hd{
+    margin-right: 150px;
+}
+.para{
+    margin-left: 900px;
+   
+}
+.two{
+    margin-top: -500px;
+}
+

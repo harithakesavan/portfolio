@@ -1,0 +1,17 @@
+button{
+    background-color: greenyellow;
+    color: bisque;
+}
+p{
+    font-size: 100px;
+}
+.con{
+    color: blue;
+}
+div{
+    background-color: blueviolet;
+    width:400px;
+    height:200px;
+    margin-left: 500px;
+
+}

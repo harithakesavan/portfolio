@@ -1,0 +1,23 @@
+.main{
+    margin-left: 500px;
+    margin-right: 50px;
+    color: brown;
+}
+body{
+    background-image: url(./back.jpeg);
+    background-size: cover;
+    
+}
+.caption{
+    margin-left: 900px;
+    color: white;
+    font-size:300px;
+    margin-top: 150px;
+}
+.honey{
+    margin-top: 600px;
+}
+.first{
+    background-image: url(./back.jpeg);
+    background-size: cover;
+}

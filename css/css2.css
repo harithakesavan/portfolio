@@ -1,0 +1,17 @@
+.first
+{
+   background-color: red; 
+   color: aqua;
+   font-style: italic;
+}
+*
+{
+    text-align: center;
+    background-color: aqua;
+    font-style: italic;
+    
+}
+h2,h3,h4{
+    color: blueviolet;
+    font-size: 30px;
+}

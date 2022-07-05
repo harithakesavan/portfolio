@@ -1,0 +1,21 @@
+div{
+    float:left;
+    width:20%;
+    height:400px;
+   
+    padding:20px;
+    border: 2px rgb(228, 209, 209) solid;
+    background-color: black;
+
+
+}
+img{
+    width:100%;
+    height: 60%;
+}
+.divback{
+    background-color: aqua;
+    margin-left: -15px;
+    width:250px;
+    height:130px;
+}

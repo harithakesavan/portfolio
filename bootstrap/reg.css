@@ -1,0 +1,29 @@
+#name
+{
+    width:300px;
+}
+.main{
+    width:500px;
+    height: 700px;
+    background-color: black;
+    color: white;
+    float: right;
+    margin-right: 65px;
+}
+#name1{
+    width:300px;
+}
+#email{
+    width: 300px;
+}
+#pwd{
+    width:300px;
+}
+#cpwd{
+    width:300px;
+}
+.reg{
+    font-size: 100px;
+    color: white;
+    
+}
